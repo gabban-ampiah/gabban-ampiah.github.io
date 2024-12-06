@@ -21,7 +21,7 @@ repository               : "gabban-ampiah/gabban-ampiah.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Github picture.jpg"
   name             : "Grace Abban-Ampiah"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer"
