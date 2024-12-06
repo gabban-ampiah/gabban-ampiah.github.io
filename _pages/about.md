@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Grace Abban-Ampiah is a lecturer and Ph.D candidate in Human Resource Management at the Ghana Institute of Management and Public Administration (GIMPA). She earned Bachelor of Arts in Social Sciences (Economics and Geography) from the Univeristy of Cape Coast in Ghana. She holds an MSc in Human Resource Management from the University of Sheffield in the United Kingdom. Her research interests include career development, leadership training, succession planning, and entrepreneurship, with a focus on empowering individuals and organizations to take the reins.
+Grace Abban-Ampiah is a lecturer and Ph.D candidate in Human Resource Management at the [Ghana Institute of Management and Public Administration (GIMPA)](https://gimpa.edu.gh/). She earned Bachelor of Arts in Social Sciences (Economics and Geography) from the Univeristy of Cape Coast in Ghana. She holds an MSc in Human Resource Management from the University of Sheffield in the United Kingdom. Her research interests include career development, leadership training, succession planning, and entrepreneurship, with a focus on empowering individuals and organizations to take the reins.
 
 A data-driven personal website
 ======
