@@ -10,9 +10,6 @@ redirect_from:
 
 # Teaching
 
-## Undergraduate Courses
-[**TITLE**](/files/paper1.pdf) <br/> 
-
 ### Organizational Behaviour and Management  
 - **Institution:** Ghana Institute of Management and Public Administration (GIMPA)  
 - **Position:** Adjunct Lecturer  
