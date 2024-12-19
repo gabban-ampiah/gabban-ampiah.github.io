@@ -93,5 +93,5 @@ Service and leadership
   - Worked in a team to organize a **Career and Entrepreneurship Fair** for GIMPA final-year students.  
   - Contributed to organizing the **Practitioners Forum** for GIMPA students.  
   - Helped organize the AFAM Ghana Chapter program, **"Making Sense of Life Beyond the New Normal,"** in 2022.
-  - 
+  
 
