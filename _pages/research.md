@@ -21,6 +21,7 @@ redirect_from:
 
 ### Articles
 [**Inculcating Employability Skill Sets in Undergraduates through Employability Embedded Courses: Students' Experience Anatomization**](/files/paper.pdf) (with D.E. Yawson, F. Yamoah, F. Owusu Sarpong, **G. Abban-Ampiah**)
+
 Published in *Archives of Business Review*, Vol. 8, Issue 6, pages 165–179, 2020.  
 ADD ABSTRACT
 
