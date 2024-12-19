@@ -10,7 +10,6 @@ redirect_from:
 
 # Teaching
 
-## Teaching Experience
 ## Undergraduate Courses
 [**TITLE**](/files/paper1.pdf) <br/> 
 
