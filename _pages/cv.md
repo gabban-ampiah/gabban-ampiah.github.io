@@ -11,31 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Business Administration (Human Resource Management Option), Ghana Institute of Management and Public Administration (GIMPA), 2025 (expected)
+* M.S.c in Human Resource Management, University of Sheffield, United Kingdom (UK), 2010
+* B.A in Social Sciences (Specilization in Economics and Geography), University of Cape Coast, Ghana, 2005
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Lecturer  
+**Ghana Institute of Management and Public Administration (GIMPA), Ghana**  
+*2016 – Present*  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Courses Taught:**  
+- Introduction to Human Resources Management  
+- Recruitment, Selection, and Staffing  
+- Training and Development  
+- Practitioners Forum Seminars  
+- Entrepreneurship for Self  
+
+**Key Responsibilities:**  
+- Delivered engaging and interactive lectures to undergraduate and postgraduate students.  
+- Designed and implemented comprehensive lesson plans, course materials, and assessments aligned with academic and professional objectives.  
+- Facilitated classroom discussions and activities to connect theoretical concepts with real-world applications.  
+- Provided academic advising and mentorship to support students’ career and personal development.  
+- Assessed student performance through assignments, projects, and exams, offering constructive feedback to enhance learning outcomes.  
+
+---
+
+### Adjunct Lecturer  
+**Ghana Institute of Management and Public Administration (GIMPA), Ghana**  
+*2014 – 2016*  
+
+**Course Taught:**  
+- Organizational Behaviour and Management  
+
+**Key Responsibilities:**  
+- Delivered lectures on leadership, motivation, team dynamics, and organizational culture.  
+- Facilitated interactive sessions to encourage critical thinking and application of theoretical concepts.  
+- Developed lesson plans, assignments, and other course materials to meet learning objectives.  
   
-Skills
-======
-* Programming:
-* Languages: 
+**Skills:**
+
+**Programming**
+- **R**: Proficient in data analysis, statistical modeling, and visualization.  
+- **Stata**: Developing expertise through independent practice.  
+- **Python**: Actively learning to strengthen programming and data analysis skills.
+   
+**Languages**
+- English: Native or Professional Proficiency
+
 
 <!-- Publications
 ======
