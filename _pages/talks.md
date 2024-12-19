@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Talks
+# Presentations
 
-- DevLunch
+## Upcoming presentations
+- 
+
+## Past presentations
+
+- University of California, Berkeley: Development Lunch seminar (Fall 2024)
+- University of California, Davis: Development Tea (Fall 2024)
+
