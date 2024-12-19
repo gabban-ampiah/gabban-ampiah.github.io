@@ -82,4 +82,16 @@ Teaching
 -->
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Additional Roles and Contributions (2013 – Present)
+  
+- **Coordinator:** Africa Academy of Management (AFAM), Ghana Chapter.  
+- **Reviewer:** Africa Academy of Management (AFAM).  
+- **Course Development:** Designed and redesigned course outlines for **Training and Development** and **Recruitment, Selection, and Staffing** courses.  
+- **Seminar Organization:**  
+  - Organized a seminar on the **Ghana Labour Act** for Recruitment, Selection, and Staffing students.  
+  - Collaborated on a seminar titled **"What’s Next After School"** for Recruitment, Selection, and Staffing students.  
+  - Worked in a team to organize a **Career and Entrepreneurship Fair** for GIMPA final-year students.  
+  - Contributed to organizing the **Practitioners Forum** for GIMPA students.  
+  - Helped organize the AFAM Ghana Chapter program, **"Making Sense of Life Beyond the New Normal,"** in 2022.
+  - 
+
