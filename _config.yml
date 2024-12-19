@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Grace Abban-Ampiah"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Grace Abban-Ampiah"
 description              : &description "personal description"
 url                      : https://gabban-ampiah.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gabban-ampiah/gabban-ampiah.github.io"
+repository               : "https://github.com/gabban-ampiah"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=BFuenbsAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1872-769X"
   semantic         : # URL
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # https://www.facebook.com/grace.ampiah
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # https://www.linkedin.com/in/grace-abban-ampiah-7a3697a0/
+  linkedin         : "https://www.linkedin.com/in/grace-abban-ampiah-7a3697a0/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
