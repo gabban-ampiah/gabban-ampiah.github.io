@@ -1,4 +1,11 @@
-
+---
+layout: archive
+title: ""
+permalink: /teaching/
+author_profile: false
+redirect_from:
+  - /teaching
+---
 {% include base_path %}
 
 # Teaching
