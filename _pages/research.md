@@ -25,16 +25,16 @@ ADD ABSTRACT
 
 ### Book chapters
 
-[**African Traditional Ethical Values: Illustrations from the Akan Context in Ghana and Business Implications**](/files/ppaper1.pdf) (with **G. Abban-Ampiah**, J.M. Yobanya, J. Ofori-Dankwa), <u> African Virtue Ethics Traditions for Business and Management</u>, pages 42–63, 2020.  
+[**African Traditional Ethical Values: Illustrations from the Akan Context in Ghana and Business Implications**](/files/ppaper1.pdf) (with **G. Abban-Ampiah**, J.M. Yobanya, J. Ofori-Dankwa), in *African Virtue Ethics Traditions for Business and Management*, pages 42–63, 2020.  
 ADD ABSTRACT
 
-[**Challenges in the Informal Sector: A Tale of Four Successful Entrepreneurs in the Makola Market in Ghana**](/files/ppaper1.pdf) (with A.O. Koramoah, **G. Abban-Ampiah**), <u>Handbook of Research on Smart Territories and Entrepreneurial Ecosystems for Development<u/>, 2020. 
+[**Challenges in the Informal Sector: A Tale of Four Successful Entrepreneurs in the Makola Market in Ghana**](/files/ppaper1.pdf) (with A.O. Koramoah, **G. Abban-Ampiah**), in *Handbook of Research on Smart Territories and Entrepreneurial Ecosystems for Development*, 2020. 
 ADD ABSTRACT 
 
-[**Using Technology to Teach Business Courses in Ghana**] (with **G. Abban-Ampiah**, J. Ofori-Dankwa, M. DelVecchio), <u>Managerial Practice Issues in Strategy and Organization </u>, pages 295, 2020.  
+[**Using Technology to Teach Business Courses in Ghana**] (with **G. Abban-Ampiah**, J. Ofori-Dankwa, M. DelVecchio) in *Managerial Practice Issues in Strategy and Organization*, pages 295, 2020.  
 ADD ABSTRACT
 
 ## Works in Progress
 
-**Managing social expectations to improve labor supply decisions amongst graduates: evidence from Ghana** 
+**Managing social expectations to improve labor supply decisions amongst graduates** 
 
