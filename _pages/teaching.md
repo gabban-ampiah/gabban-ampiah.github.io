@@ -13,7 +13,6 @@ redirect_from:
 ## Undergraduate Courses
 [**TITLE**](/files/paper1.pdf) <br/> 
 
-
 ## Teaching Experience
 
 ### Organizational Behaviour and Management  
@@ -66,6 +65,7 @@ redirect_from:
   - Orientation, Transfers, and Promotions  
   - Career and Succession Planning  
 
+---
 
 ### Training and Development  
 - **Institution:** Ghana Institute of Management and Public Administration (GIMPA)  
@@ -81,8 +81,23 @@ redirect_from:
   - Training Delivery  
   - Training Evaluation  
 
+---
 
-## Workshops/Seminars
+### Entrepreneurship for the Self and Career Development Seminars  
+- **Institution:** Ghana Institute of Management and Public Administration (GIMPA)  
+- **Position:** Main Instructor  
+- **Year:** 2022–Present  
+- **Type of Student:** Final-year graduates  
+- **Format:** Workshop  
 
-**TITLE** (with [AUTHOR1](URL1)<br/>
+---
+
+### Practitioners Forum Seminar  
+- **Institution:** Ghana Institute of Management and Public Administration (GIMPA)  
+- **Position:** Main Instructor  
+- **Year:** 2022–Present  
+- **Type of Student:** Final-year graduates  
+- **Format:** Workshop  
+
+-
 
