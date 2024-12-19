@@ -11,12 +11,6 @@ redirect_from:
 
 # Research
 
-## Working papers
-
-[**TITLE**](/files/paper1.pdf) <br/> 
-
-[**TITLE**](/files/paper2.pdf) (with [AUTHOR1](URL1) <br/> 
-
 ## Peer-reviewed Publications
 
 ### Articles
