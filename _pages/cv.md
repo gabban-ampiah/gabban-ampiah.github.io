@@ -82,7 +82,7 @@ Teaching
 -->
 Service and leadership
 ======
-* Additional Roles and Contributions (2013 – Present)
+**Additional Roles and Contributions (2013 – Present)**
   
 - **Coordinator:** Africa Academy of Management (AFAM), Ghana Chapter.  
 - **Reviewer:** Africa Academy of Management (AFAM).  
