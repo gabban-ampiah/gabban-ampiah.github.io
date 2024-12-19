@@ -10,10 +10,9 @@ redirect_from:
 
 # Teaching
 
+## Teaching Experience
 ## Undergraduate Courses
 [**TITLE**](/files/paper1.pdf) <br/> 
-
-## Teaching Experience
 
 ### Organizational Behaviour and Management  
 - **Institution:** Ghana Institute of Management and Public Administration (GIMPA)  
