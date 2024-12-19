@@ -27,11 +27,12 @@ ADD ABSTRACT
 ### Book chapters
 
 [**African Traditional Ethical Values: Illustrations from the Akan Context in Ghana and Business Implications**](/files/ppaper1.pdf) (with **G. Abban-Ampiah**, J.M. Yobanya, J. Ofori-Dankwa)
-Published in <u>African Virtue Ethics Traditions for Business and Management<u/>, pages 42–63, 2020.  
+Published in <u> African Virtue Ethics Traditions for Business and Management<u/>, pages 42–63, 2020.  
 ADD ABSTRACT
 
 [**Challenges in the Informal Sector: A Tale of Four Successful Entrepreneurs in the Makola Market in Ghana**] (with A.O. Koramoah, **G. Abban-Ampiah**) 
-Featured in <u>Handbook of Research on Smart Territories and Entrepreneurial Ecosystems for Development<u/>, 2020.  
+Featured in <u>Handbook of Research on Smart Territories and Entrepreneurial Ecosystems for Development<u/>, 2020. 
+
 Analyzes the success stories and challenges of entrepreneurs in Ghana’s informal sector, with insights into entrepreneurial strategies in the Makola Market.
 
 [**Using Technology to Teach Business Courses in Ghana**] (with **G. Abban-Ampiah**, J. Ofori-Dankwa, M. DelVecchio) 
