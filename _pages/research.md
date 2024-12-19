@@ -31,7 +31,7 @@ ADD ABSTRACT
 [**Challenges in the Informal Sector: A Tale of Four Successful Entrepreneurs in the Makola Market in Ghana**](/files/ppaper1.pdf) (with A.O. Koramoah, **G. Abban-Ampiah**), in *Handbook of Research on Smart Territories and Entrepreneurial Ecosystems for Development*, 2020. 
 ADD ABSTRACT 
 
-[**Using Technology to Teach Business Courses in Ghana**] (with **G. Abban-Ampiah**, J. Ofori-Dankwa, M. DelVecchio) in *Managerial Practice Issues in Strategy and Organization*, pages 295, 2020.  
+[**Using Technology to Teach Business Courses in Ghana**](/files/ppaper1.pdf) (with **G. Abban-Ampiah**, J. Ofori-Dankwa, M. DelVecchio) in *Managerial Practice Issues in Strategy and Organization*, pages 295, 2020.  
 ADD ABSTRACT
 
 ## Works in Progress
