@@ -54,14 +54,10 @@ Work experience
 **Skills:**
 
 **Programming**
-- **R**: Proficient in data analysis, statistical modeling, and visualization.  
-- **Stata**: Developing expertise through independent practice.  
-- **Python**: Actively learning to strengthen programming and data analysis skills.
+- **R**:   
+- **Stata**  
+- **Python**
    
-**Languages**
-- English: Native or Professional Proficiency
-
-
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
